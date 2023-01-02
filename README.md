@@ -1,1 +1,1 @@
-# datalearn - a repository for a homework of data enginering courses from http://datalearn.ru
+# datalearn - a repository for a homework of data engineering courses from http://datalearn.ru
